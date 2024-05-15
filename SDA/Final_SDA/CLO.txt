@@ -1,0 +1,5 @@
+CL-1000,To be able to learn things.
+CL-1001,To be able to speak things.
+CL-1002,To be able to read things.
+CL-1003,To be able to write things.
+CL-6969,Bas Awin Dil kiya
